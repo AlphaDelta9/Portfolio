@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Profile
 
-You can use the [editor on GitHub](https://github.com/AlphaDelta9/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Projects
+[### NeinteenFlower](https://github.com/AlphaDelta9/PatternSoftwareDesign)
+Project for Pattern Software Design course to develop basic ASP.NET website using Domain Driven Design & Model View Controller pattern design. The main function of this website is user & item management, which consists Create, Read, Update, and Delete entity at database. Currently the website only connected to project database.
+[### FractionCalculator](https://github.com/AlphaDelta9/ObjectOrientedProgramming)
+Project for Object Oriented Programming course to develop basic fraction calculator using Java. The main function of this program is fraction calculation, currently only receive 2 inputs consists fraction and/or mixed fraction with 1 operator consist addition, subtraction, multiplication, or division.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
+## Interests
 - Bulleted
 - List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlphaDelta9/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

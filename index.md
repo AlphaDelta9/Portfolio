@@ -14,10 +14,10 @@ Project for Object Oriented Programming course to develop basic fraction calcula
 - C#
 - ASP.NET
 - Windows
-- Ubuntu
+- Ubuntu (Windows subsystem)
 - Docker (Managed using Portainer)
-- Hyper-V
+- Virtualization (Hyper-V)
 - Mikrotik
-- Computer Networking
+- Computer Network
 - Computer Security
-- Cloud Computing
+- Cloud

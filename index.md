@@ -22,4 +22,8 @@ Project for Object Oriented Programming course to develop basic fraction calcula
 - Computer Security
 - Cloud
 
+### Certificates
 ![Networking Essentials](https://github.com/AlphaDelta9/Portfolio/raw/main/Cisco.jpg)
+![Praktek Industri](https://github.com/AlphaDelta9/Portfolio/raw/main/Witel.jpg)
+![Front](https://github.com/AlphaDelta9/Portfolio/raw/main/KompetensiF.jpg)
+![Back](https://github.com/AlphaDelta9/Portfolio/raw/main/KompetensiB.jpg)

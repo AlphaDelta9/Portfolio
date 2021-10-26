@@ -22,4 +22,4 @@ Project for Object Oriented Programming course to develop basic fraction calcula
 - Computer Security
 - Cloud
 
-![Networking Essentials](/../main/Cisco.jpg)
+![Networking Essentials](https://github.com/AlphaDelta9/Portfolio/raw/main/Cisco.jpg)
